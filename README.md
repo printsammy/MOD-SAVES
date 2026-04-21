@@ -1,7 +1,7 @@
-# MOD-SAVES
-this is where i store mods i made, either for pak chunks (UE4) or just anything lmfao
+# mods!
 
-# IMPORTANT READ
-there is a model i use mostly, which is a so fucking sexy and hot cat (/j) that i do not own. its made by
-ぎがすけ商会 (gigash), so i dont own any rights, and will never be used for promotional use, unless specif-
--ied that they have gaven permission.
+these are mods that i make for games. the models i upload here have most if not all features stripped if its a paid model, but they can be used in mods.
+
+# tos
+
+if you do end up using a mod of mine and altering something, i.e. a texture if its a base you own, all i ask if you can just say something if you upload it too, like link it back, thats really it
